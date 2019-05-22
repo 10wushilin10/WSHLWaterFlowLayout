@@ -1,0 +1,7 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'WSHLWaterFlowLayoutDemo' do
+  pod 'JSONModel', '~> 1.8.0'
+  pod 'MJRefresh', '~> 3.1.15.7'
+end
