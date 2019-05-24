@@ -118,8 +118,8 @@
 		CD7FDF6F2293ED910042F08C /* WSHLWaterFlowLayout */ = {
 			isa = PBXGroup;
 			children = (
-				CD7FDF702293ED910042F08C /* WSHLWaterFlowLayout.m */,
 				CD7FDF712293ED910042F08C /* WSHLWaterFlowLayout.h */,
+				CD7FDF702293ED910042F08C /* WSHLWaterFlowLayout.m */,
 			);
 			name = WSHLWaterFlowLayout;
 			path = ../../WSHLWaterFlowLayout;
